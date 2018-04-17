@@ -18,3 +18,6 @@ Partition tolerance ：节点之间允许出现部分消息丢失系统还能正
 
 
 零拷贝：http://ifeve.com/linux%E9%9B%B6%E6%8B%B7%E8%B4%9D%E5%8E%9F%E7%90%86/
+
+分布式：https://github.com/waylau/distributed-systems-technologies-and-cases-analysis
+https://github.com/xuminwlt/j360-dubbo-app-all
